@@ -33,7 +33,7 @@ public class JoinerWorkflow {
 				acccReqs.add(acctReq);
 				plan.setAccountRequests(acccReqs);
 				plan.setIdentity(identityObject);
-				System.out.println(plan.toXml());
+			//	System.out.println(plan.toXml());
 			}
 	//		return plan;
 			
