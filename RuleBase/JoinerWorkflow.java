@@ -35,7 +35,7 @@ public class JoinerWorkflow {
 				plan.setIdentity(identityObject);
 			//	System.out.println(plan.toXml());
 			}
-	//		return plan;
+	//		return plan;  //adding spaces
 			
 		} catch (GeneralException e) {
 			// TODO Auto-generated catch block
